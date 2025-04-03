@@ -23,9 +23,7 @@ _Adjuntar captura de pantalla del estado del repositorio._
 
    ⚠️ **Nota:** Asegúrate de verificar que la rama en la que estás trabajando coincide con la que GitHub recomienda. Si no es así, adáptala según sea necesario.
 
-![alt text](img/image-1.png)
-![alt text](img/image-2.png)
-![alt text](img/image-3.png)
+![alt text](image-1.png)
 
 ## 3. Agregar el fichero README.md en local
 
@@ -33,7 +31,7 @@ Desde Git Bash y en el repositorio local:
 
 1. Crea un archivo `README.md` e incluye estas instrucciones junto con las capturas de pantalla requeridas.
 
-![alt text](img/image-4.png)
+![alt text](image-2.png)
 
 2. Confirma los cambios y sincroniza el repositorio con GitHub:
 
