@@ -31,7 +31,6 @@ Desde Git Bash y en el repositorio local:
 
 1. Crea un archivo `README.md` e incluye estas instrucciones junto con las capturas de pantalla requeridas.
 
-![alt text](image-2.png)
 
 2. Confirma los cambios y sincroniza el repositorio con GitHub:
 
@@ -40,5 +39,5 @@ Desde Git Bash y en el repositorio local:
    git commit -m "Añadido README.md con instrucciones y capturas"
    git push
    ```
-
+![alt text](image-2.png)
 _Adjuntar capturas de pantalla de los comandos ejecutados y la sincronización exitosa._
